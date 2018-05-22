@@ -1,4 +1,6 @@
 # premier test
+# ajouté sur un repository GitHub
+
 nb = 5
 i = 0
 
