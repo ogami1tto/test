@@ -1,5 +1,4 @@
-# premier test
-# ajouté sur un repository GitHub
+# petit programme qui exécute la table de mutiplication de 5
 
 nb = 5
 i = 0
