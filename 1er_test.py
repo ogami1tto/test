@@ -1,3 +1,4 @@
+# ceci est mon premier programme
 # programme qui exécute la table de mutiplication de 5
 
 nb = 5
